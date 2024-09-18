@@ -1,7 +1,7 @@
 # Conta Bancaria - Parte 2
 
 Este exercício tem como objetivo trabalhar o conceito de Coleções em Java.
-Ele é uma continuação de um exercício anterior ([Conta Bancaria](https://github.com/ufla-ppoo/ContaBancaria)).
+Ele é uma continuação de um exercício anterior ([Conta Bancaria](https://github.com/soumichel/Programacao_Orientada_a_Objetos-UFLA/tree/main/exercicio-conta-bancaria)).
 
 Para fazer o exercício basta seguir os passos abaixo.
 Não se esqueça de fazer um commit e sincronizar suas alterações ao final de cada passo.
